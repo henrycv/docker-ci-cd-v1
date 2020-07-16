@@ -37,5 +37,3 @@ volumes:
 
 networks:
   jenkins:
-    # aliases:
-    #   - docker
